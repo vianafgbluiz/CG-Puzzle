@@ -29,7 +29,7 @@ Game developed by <strong>Luiz Felipe G B Viana</strong> for <strong>Computaçã
 <p>It is requested that any bug, error or problem generated be reported to the creator by email <strong>vianafgluiz@gmail.com</strong></p>
 
 <hr>
-<h2Credits</h2>
+<h2>Credits</h2>
 <p><a href="https://github.com/Paulojct1">@PauloJosé</a></p>
 <p><a href="https://github.com/pedruuh">@PedroHenrique</a></p>
 <hr>
