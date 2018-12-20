@@ -23,7 +23,7 @@ Game developed by <strong>Luiz Felipe G B Viana</strong> for <strong>Computaçã
 <ul>
   <li> Practice -> Developing the game.</li>
   <li> Theoretical -> Need for best results in the game</li>
-  <li> Dinâmica -> Learn playing the game</li>
+  <li> Dinamic -> Learn playing the game</li>
 </ul>
   
 <p>It is requested that any bug, error or problem generated be reported to the creator by email <strong>vianafgluiz@gmail.com</strong></p>
